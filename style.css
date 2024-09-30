@@ -1,0 +1,34 @@
+body{
+  font-family: monospace;
+  background-color: darkblue
+}
+
+.outputBox{
+  min-height: 100px;
+  width: 60%;
+  background-color:lightblue;
+}
+
+button{
+  background-color: white;
+  padding: 10px;
+  font-family: monospace;
+  border: none;
+}
+
+header{
+  background: lightblue;
+  padding: 20px;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+select{
+  padding: 10px;
+  font-family: monospace;
+}
+
+input{
+  padding: 10px;
+  font-family: monospace;
+}
